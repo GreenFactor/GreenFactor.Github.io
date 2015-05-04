@@ -1,0 +1,13 @@
+#logo
+{
+	height: 300px;
+}
+
+#all 
+{ 
+	position: absolute;
+	top: 20%;
+	font-family: "calibri";
+	display: block;
+	left: 35%;
+}
